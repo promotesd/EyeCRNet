@@ -1,0 +1,4 @@
+Pixel Accuracy: 0.9928
+Mean Accuracy: 0.9712
+Mean F1 Score: 0.9885
+Mean IoU: 0.9605
